@@ -17,7 +17,7 @@ Luciana,Bueno,lucianabueno
 
 Nelson, Munoz, nmunoz1
 
-Sucharitha,Manyala,SucharithaManyala
+Sucharitha,Manyala,SucharithaManyala https://sucharithamanyala.github.io/HomeWork1/
 
 Mollie, LeBlanc, mollieleb13
 
